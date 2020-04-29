@@ -1,0 +1,14 @@
+// config  scss  _下划线开始只当模块导入，不能单独使用
+@import "variables";
+
+// layout
+@import "reboot";
+
+// mixin
+@import "mixin";
+
+// buttton
+@import "../components/Button/style";
+
+// alert
+@import "../components/Alert/style";
